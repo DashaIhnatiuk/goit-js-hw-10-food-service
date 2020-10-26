@@ -2,7 +2,7 @@
 
 ## Developing
 
-##Ссылка на живую страницу https://dashaihnatiuk.github.io/goit-js-hw-10-food-service/
+## Ссылка на живую страницу https://dashaihnatiuk.github.io/goit-js-hw-10-food-service/
 
 ### Prerequisites
 
